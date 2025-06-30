@@ -56,4 +56,4 @@ A descrição completa do processo e dos resultados obtidos está disponível no
 - O modelo da Tarefa (c) requer execução em ambiente com GPU no Colab.
 - As tarefas utilizaram apenas uma amostra dos dados devido ao tamanho do dataset (~8.4 GB).
 - O notebook `song_lyrics_d.ipynb` constrói uma rede de colaboração entre artistas com base nas participações (`features`). Além da análise textual e estatística, foi gerada uma visualização **interativa** dos artistas com **grau ≥ 50**, permitindo a exploração do grafo de forma intuitiva.
-    Acesse aqui: [Visualização Interativa da Rede (grau ≥ 50)](./network_collab_degree50.html)
+    Faça o download do arquivo e abra no navegador: [Visualização Interativa da Rede (grau ≥ 50)](./network_collab_degree50.html).
