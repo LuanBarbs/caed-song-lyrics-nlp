@@ -54,4 +54,4 @@ A descrição completa do processo e dos resultados obtidos está disponível no
 ## Observações
 
 - O modelo da Tarefa (c) requer execução em ambiente com GPU no Colab.
-- Algumas tarefas utilizaram apenas uma amostra dos dados devido ao tamanho do dataset (~8.4 GB).
+- As tarefas utilizaram apenas uma amostra dos dados devido ao tamanho do dataset (~8.4 GB).
