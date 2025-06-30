@@ -30,7 +30,6 @@ A prova consistia em analisar uma base de dados textual contendo letras de músi
 ## Executar no Google Colab
 
 Você pode abrir os notebooks diretamente no Google Colab:
-https://colab.research.google.com/drive/1961vO-DtAAxpDf8PJhgXuL5xpvdYaWVd?usp=sharing
 
 - [Análise Exploratória](https://colab.research.google.com/drive/1961vO-DtAAxpDf8PJhgXuL5xpvdYaWVd?usp=sharing)
 - [Polaridade (Tarefa a)](https://colab.research.google.com/drive/19WmB-LuogBEHwWEpi2TVitHSLWByuQnK?usp=sharing)
